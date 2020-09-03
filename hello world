@@ -5,5 +5,6 @@ public class HelloWorld 	{
 	}
 }	
 
-1.先javac HelloWorld.java
+1.先javac HelloWorld.java  ##必须与文件名一模一样
 2.然后java HelloWorld
+3.注意拼写：该拼大写的要大写
